@@ -1,0 +1,6 @@
+TransactionID,Date,Category,Amount,Description
+1,2024-03-01,Groceries,120.50,"Bought groceries"
+2,2024-03-02,Transport,50.00,"Taxi ride"
+3,2024-03-03,Entertainment,NaN,"Movie ticket"
+4,2024-03-04,Groceries,200.75,"Weekly groceries"
+5,2024-03-05,Transport,30.00,"Bus fare"
